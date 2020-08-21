@@ -15,3 +15,9 @@ A repository focused on learning and practicing Golang
    - Garbage collected
    - Built-in concurrency
    - Compile to standalone binaries
+
+
+## Resources
+
+- [golang.org](https://golang.org/)
+- [golang docs](https://golang.org/doc/)
