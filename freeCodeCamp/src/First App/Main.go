@@ -1,1 +1,7 @@
-package First_App
+package main
+
+import "fmt"
+
+func main()  {
+	fmt.Println("Hello GoLand")
+}
