@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eddd3d70-c437-473f-baa7-10c72e9164c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exploring-golang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/src/First App/Main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +73,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="551" y="301" key="#Notifications/1600.0.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1600165718381" />
+    <state x="575" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600167151573">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="575" y="263" key="#com.intellij.fileTypes.FileTypeChooser/1600.0.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1600167151573" />
     <state x="313" y="105" key="SettingsEditor" timestamp="1600166795037">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
