@@ -51,8 +51,20 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eddd3d70-c437-473f-baa7-10c72e9164c0" name="Default Changelist" comment="" />
+      <created>1600231885953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600231885953</updated>
+      <workItem from="1600231892777" duration="58000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
@@ -77,6 +89,11 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="575" y="263" key="#com.intellij.fileTypes.FileTypeChooser/1600.0.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1600167151573" />
+    <state x="499" y="195" width="424" height="454" key="FileChooserDialogImpl" timestamp="1600508313269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="499" y="195" width="424" height="454" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600508313269" />
+    <state x="585" y="228" key="FileChooserDialogImpl/1600.0.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1600231949288" />
     <state x="313" y="105" key="SettingsEditor" timestamp="1600166795037">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
