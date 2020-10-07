@@ -6,6 +6,20 @@ import (
 // Variables Method 3
 var i int = 42
 
+// Variables Method 4
+/*var (
+	actorName string = "Iskander"
+	companion string = "Andrew"
+	doctorNumber int = 3
+	season int = 11
+)
+
+var (
+	counter int = 0
+)
+*/
+
+
 func main()  {
 
 	// Variables Method 1
