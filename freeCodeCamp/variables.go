@@ -19,9 +19,10 @@ var (
 )
 */
 
-
 func main()  {
 
+	// Shadowing
+	fmt.Println(i)
 	// Variables Method 1
 	// var i int
 	// i = 42
@@ -30,6 +31,8 @@ func main()  {
 	// var x int = 50
 	// x := 50
 
-	// fmt.Println(i + x)
-	fmt.Printf("%v, %T", i, i)
+	var i int = 50
+
+	fmt.Println(i)
+	// fmt.Printf("%v, %T", i, i)
 }
