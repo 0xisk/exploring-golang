@@ -17,29 +17,47 @@ A repository focused on learning and practicing Golang
    - Compile to standalone binaries
 
 ## Variables
-### Variable declaration:
+
+### Agenda:
+- Variable declaration
+- Redeclaration and shadowing
+- Visibility
+- Naming conventions
+- Type conversions
+
+#### Variable declaration:
 - var foo int
 - var foo int = 42
 - foo := 42
 
-### Cant redeclare variables, but can shadow them.
+#### Cant redeclare variables, but can shadow them.
 
-### All variables must be used.
+#### All variables must be used.
 
-### Visibility:
+#### Visibility:
   - lower case first letter for package scope
   - upper case first letter to export
   - no private scope
 
-### Naming conventions:
+#### Naming conventions:
 - Pascal or camelCase
     - Capitalize acronyms (HTTP, URL)
 - As short as reasonable
     - Longer names for longer lives
 
-### Type conversions:
+#### Type conversions:
 - DestinationType(variable)
 - Use (strconv) package for string
+
+
+## Primitives
+### Agenda:
+- Boolean type
+- Numeric types
+    - Integers
+    - Floating point
+    - Complex numbers
+- Text types
 
 ## Resources
 
