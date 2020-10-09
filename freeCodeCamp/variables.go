@@ -41,5 +41,5 @@ func main()  {
 
 	fmt.Println(i)
 	fmt.Println(theURL)
-	// fmt.Printf("%v, %T", i, i)
+	// fmt.Printf("%v,3 %T", i, i)
 }

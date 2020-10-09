@@ -16,6 +16,30 @@ A repository focused on learning and practicing Golang
    - Built-in concurrency
    - Compile to standalone binaries
 
+## Variables
+### Variable declaration:
+- var foo int
+- var foo int = 42
+- foo := 42
+
+### Cant redeclare variables, but can shadow them.
+
+### All variables must be used.
+
+### Visibility:
+  - lower case first letter for package scope
+  - upper case first letter to export
+  - no private scope
+
+### Naming conventions:
+- Pascal or camelCase
+    - Capitalize acronyms (HTTP, URL)
+- As short as reasonable
+    - Longer names for longer lives
+
+### Type conversions:
+- DestinationType(variable)
+- Use (strconv) package for string
 
 ## Resources
 
